@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Unit 4 (Procedures & Functions)\AreaProcedureThomasA\AreaProcedureThomasA\bin\Debug\AreaProcedureThomasA.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Unit 4 (Procedures & Functions)\AreaProcedureThomasA\AreaProcedureThomasA\bin\Debug\AreaProcedureThomasA.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Unit 4 (Procedures & Functions)\AreaProcedureThomasA\AreaProcedureThomasA\bin\Debug\AreaProcedureThomasA.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Unit 4 (Procedures & Functions)\AreaProcedureThomasA\AreaProcedureThomasA\obj\Debug\AreaProcedureThomasA.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Unit 4 (Procedures & Functions)\AreaProcedureThomasA\AreaProcedureThomasA\obj\Debug\AreaProcedureThomasA.frmAreaProcedure.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Unit 4 (Procedures & Functions)\AreaProcedureThomasA\AreaProcedureThomasA\obj\Debug\AreaProcedureThomasA.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Unit 4 (Procedures & Functions)\AreaProcedureThomasA\AreaProcedureThomasA\obj\Debug\AreaProcedureThomasA.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Unit 4 (Procedures & Functions)\AreaProcedureThomasA\AreaProcedureThomasA\obj\Debug\AreaProcedureThomasA.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Unit 4 (Procedures & Functions)\AreaProcedureThomasA\AreaProcedureThomasA\obj\Debug\AreaProcedureThomasA.pdb
